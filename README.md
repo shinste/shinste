@@ -2,7 +2,7 @@
 I've recently received my Economics Degree from the University of Washington in Seattle but I've decided to switch into tech!<br>I'm currently working on a Poker Program that utilizes AI to create move analysis and improve gameplay<br>I'm looking to work in backend, frontend, or full-stack development<br>My favorite language is Python and I originally learned it for data science<br>I love coffee, volleyball, lifting, and playing videogames<br>
 
 ## 📁 Portfolio: 
-[Portfolio](https://master--stephenshinportfolio.netlify.app/)
+[Portfolio](https://stephenshinportfolio.netlify.app/)
 
 
 ## 🌐 Socials:
